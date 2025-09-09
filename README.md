@@ -1,4 +1,4 @@
-### Hi👋, I'm Sk Mahammad Nazir
+### Hi👋, I'm Sk Mahammad Nazir(binu)
 
 <!--
 **skmdnazir/skmdnazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
